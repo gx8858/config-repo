@@ -16,7 +16,7 @@ spring:
   redis:
     host: localhost
     port: 6379
-env: dev5
+env: dev
 girl:
   name: zyn
-  age: 25
+  age: 26
